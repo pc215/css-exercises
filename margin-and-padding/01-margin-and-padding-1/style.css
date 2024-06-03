@@ -22,5 +22,6 @@ body {
   border: 3px solid brown;
   width: 200px;
   padding: 30px;
-  margin-left: 334px;
+  margin-left: auto;
+  /* auto takes up the remaining space */
 }
