@@ -1,0 +1,8 @@
+/* Path: foundations/05-descendant-combinator/index.html */
+
+div p {
+  background-color: yellow;
+  color: red;
+  font-size: 20px;
+  text-align: center;
+}
